@@ -1,4 +1,4 @@
-# SpringMuster
+# SpringBootTemplate
 
 A base SpringBoot project with a simple HelloEndpoint, HelloEndpointTest and Swagger configuration.
 
